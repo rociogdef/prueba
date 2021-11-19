@@ -1,3 +1,5 @@
+
+
 CREATE DATABASE  bd_chbous;
 CREATE SCHEMA IF NOT EXISTS challenge_bous;
 
